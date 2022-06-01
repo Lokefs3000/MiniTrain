@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_vehicles/minitrain_002_light_skin2"
+	"$selfillum"		"1"
+}
+
